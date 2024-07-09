@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zahra Zolfaghari</h1>
 <h3 align="center">A passionate python backend developer try to learning golang</h3>
 
-- 🌱 I’m currently learning **Golang**
-
 - 👨‍💻 All of my projects are available at [https://github.com/zzolfaghari](https://github.com/zzolfaghari)
 
 - 💬 Ask me about **python, django**
